@@ -13,3 +13,6 @@ img { padding: 10px;
 }
 
 h2 { font-style: italic;}
+
+a:link {text-decoration: non; color: black;}
+a:hover {text-decoration: underline; color: pink;}
